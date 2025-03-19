@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Usman2461
-- 👀 I’m interested in Flutter app projects & native android or ios app projects
-- 🌱 I’m currently learning AI & NNC. 
-- 💞️ I’m looking to collaborate on Mobile app projects.
+- 👀 I’m interested in Flutter app projects ( android or ios app) or AI Projects projects
+- 🌱 I’m pro at AI & (ML,DL).
+- I can train model, create api and integrate to your flutter app. I can provide complete training model to deploying app service :).
+- 💞️ I’m looking to collaborate on Mobile app projects and AI projects.
 - 📫 reach me through email usmanarshad5051@outlook.com or +923217715546
 
-I am professional Flutter app & native Kotlin app developer.
+I am professional Flutter app developer & AI Engineer.
 I have vast expertise of Image Processing & AI programming in python.
 I have a team of developers with diverse knowledge that makes me perfect freelancer to solve your problems related to mobile App development.
 I have vast knowledge of OpenCV, Machine learning and Database Management.
