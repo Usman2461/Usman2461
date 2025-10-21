@@ -7,9 +7,9 @@
 
 I am professional Flutter app developer & AI Engineer.
 I have vast expertise of Image Processing & AI programming in python.
-I have a team of developers with diverse knowledge that makes me perfect freelancer to solve your problems related to mobile App development.
-I have vast knowledge of OpenCV, Machine learning and Database Management.
-I can help you in any of your problems related to mobile App development.
+I have a team of developers with diverse knowledge that makes me perfect freelancer to solve your problems related to mobile App and AI Development.
+I have vast knowledge of OpenCV, Machine learning, Deep Learning and Reinforcement Learning.
+I can help you in any of your problems related to mobile App and AI development.
 I will communicate to you thorough out the project and keep taking your suggestion and will provide you revisions for your 100% satisfaction.
 I can also speak Chinese 我会说汉语。
 <!---
